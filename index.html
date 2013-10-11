@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+	<title>Wonderland</title>
+	<link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+	<span id="fps" class="fps"></span>
+	<canvas id="game" class="game" width="1024" height="512"></canvas>
+	<script src="js/requestNextAnimationFrame.js"></script>
+	<script src="js/wonderland.js"></script>
+	<script>
+		window.onclick = function() {
+			wonderLand.start();
+		};
+	</script>
+</body>
+</html>
