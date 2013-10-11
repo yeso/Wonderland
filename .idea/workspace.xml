@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" name="Default" comment="">
+    <list default="true" id="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" name="Default" comment="测试 webstorm 编辑，同步">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -11,7 +12,7 @@
     <file path="$PROJECT_DIR$/../../../91基金/done/css/style.css" changelist="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" time="1380101150563" ignored="false" />
     <file path="/style.css" changelist="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" time="1380177671155" ignored="false" />
     <file path="$PROJECT_DIR$/../../../91基金/done/index.html" changelist="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" time="1380108480176" ignored="false" />
-    <file path="/Dummy.txt" changelist="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" time="1381486660522" ignored="false" />
+    <file path="/Dummy.txt" changelist="5fd4dcda-b4ad-469f-a9b5-7a1c638ecb25" time="1381487405526" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="492" selection-end="492" vertical-scroll-proportion="0.37977806">
+            <state line="19" column="14" selection-start="562" selection-end="562" vertical-scroll-proportion="0.51541305">
               <folding />
             </state>
           </provider>
@@ -69,6 +70,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -87,6 +89,26 @@
     <option name="y" value="-8" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -187,8 +209,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="204" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../hy/法院" />
@@ -211,6 +234,13 @@
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -243,7 +273,11 @@
       <created>1381486669573</created>
       <updated>1381486669573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试 webstorm 编辑，同步">
+      <created>1381486745542</created>
+      <updated>1381486745542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -438,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="492" selection-end="492" vertical-scroll-proportion="0.37977806">
+        <state line="19" column="14" selection-start="562" selection-end="562" vertical-scroll-proportion="0.51541305">
           <folding />
         </state>
       </provider>
